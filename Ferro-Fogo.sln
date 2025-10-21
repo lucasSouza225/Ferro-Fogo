@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FerroFogo.API", "FerroFogo.API\FerroFogo.API.csproj", "{B797E46F-4F68-7B74-A8D0-9B87CE8B9EEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B797E46F-4F68-7B74-A8D0-9B87CE8B9EEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B797E46F-4F68-7B74-A8D0-9B87CE8B9EEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B797E46F-4F68-7B74-A8D0-9B87CE8B9EEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B797E46F-4F68-7B74-A8D0-9B87CE8B9EEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DEBC90A-105F-4F04-8F17-14C0386AEBF1}
+	EndGlobalSection
+EndGlobal
