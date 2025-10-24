@@ -17,7 +17,7 @@ namespace FerroFogo.API.Models
         public string Nome { get; set; }
 
         [StringLength(3000)]
-        public string? Descricao { get; set; }
+        public string Descricao { get; set; }
 
         public int Qtde { get; set; }
 
@@ -30,6 +30,6 @@ namespace FerroFogo.API.Models
         public bool Destaque { get; set; } = false;
 
         [StringLength(300)]
-        public string? Foto { get; set; }
+        public string Foto { get; set; }
     }
 }
